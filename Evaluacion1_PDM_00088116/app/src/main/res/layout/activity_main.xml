@@ -34,7 +34,7 @@
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="#"
+                    android:text="0"
                     android:id="@+id/number3"
                     android:layout_gravity="center"/>
 
@@ -58,7 +58,7 @@
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="#"
+                    android:text="0"
                     android:id="@+id/number4"
                     android:layout_gravity="center"/>
 
@@ -82,7 +82,7 @@
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="#"
+                    android:text="0"
                     android:id="@+id/number5"
                     android:layout_gravity="center"/>
 
@@ -106,7 +106,7 @@
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="#"
+                    android:text="0"
                     android:id="@+id/number6"
                     android:layout_gravity="center"/>
 

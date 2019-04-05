@@ -31,7 +31,14 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun counter(v: View){
-
+        when(v.id){
+            R.id.caja1 -> {
+                findViewById<TextView>(R.id.number3).text = (findViewById<TextView>(R.id.number3).text.toString().toInt() + 1).toString()
+            }
+            R.id.caja2 -> {
+                findViewById<TextView>(R.id.number4).text = (findViewById<TextView>(R.id.number4).text.toString().toInt() + 1).toString()
+            }
+        }
 
     }
 

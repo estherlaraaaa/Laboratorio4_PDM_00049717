@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">counter</string>
-    <string name="usser">usuario</string>
-    <string name="mail">Correco electronico</string>
-    <string name="send">Enviar</string>
-</resources>
